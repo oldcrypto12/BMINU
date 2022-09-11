@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0xeee67D070d5E93f3e05d1D7AeeD6F0fB754CAAE8",
+  "SCAN_LINK": "https://bscscan.com/token/0xeee67d070d5e93f3e05d1d7aeed6f0fb754caae8",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Bill Murray Inu NFTs",
+  "SYMBOL": "BMINUNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 250000000000000000,
+  "DISPLAY_COST": 0.25,
+  "GAS_LIMIT": 285000,
+  "SHOW_BACKGROUND": true
+}
